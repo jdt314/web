@@ -942,6 +942,7 @@ opacity:0; filter:alpha(opacity=00);
   position: relative;
   text-align: left;
   padding-left: 1em;
+  font-size: 12px;
 }
 
 .t_9 .t_9_1 .t_9_1_item p::before {
